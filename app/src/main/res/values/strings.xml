@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Malandroid</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sqlite_id_text">Id</string>
+    <string name="sqlite_name_text">Name</string>
+    <string name="sqlite_email_text">Email</string>
+    <string name="sqlite_id_del_input">enter id</string>
+    <string name="sqlite_id_upd_input">enter id</string>
+    <string name="sqlite_name_upd_input">enter name</string>
+    <string name="sqlite_email_upd_input">enter email</string>
+    <string name="sqlite_user_id_txt">User Id</string>
+    <string name="sqlite_user_name_txt">User Name</string>
+    <string name="sqlite_user_email_txt">User Email</string>
+    <string name="sqlite_save_txt_btn">Save</string>
+    <string name="sqlite_view_txt_btn">View</string>
+    <string name="sqlite_update_txt_btn">Update</string>
+    <string name="sqlite_deleted_txt_btn">Delete</string>
+    <!-- Add Trek Modal -->
+    <string name="add_trek_id_hint">Enter your trek Id</string>
+    <string name="add_trek_name_hint">Enter your trek name</string>
+    <string name="add_trek_desc_hint">Enter your trek description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
